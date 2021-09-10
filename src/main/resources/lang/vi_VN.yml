@@ -1,0 +1,20 @@
+Plugin-Loading:
+  - '&r'
+  - '&7Đang tải &3G&bControlPanel... &8{0}'
+  - '&r'
+Plugin-Enabled: '&8[&3G&bControlPanel&8] &bTHÔNG TIN &8| &3Plugin đã được bật. Hiện đang chạy phiên bản &2{0}&7.'
+Plugin-Dependency-Hooked: '&8[&3G&bControlPanel&8] &6KẾT NỐI &8| &7Phụ thuộc phụ &f{0} &7đã được kết nối.'
+Plugin-Dependency-Abuse: '&8[&3G&bControlPanel&8] &6KẾT NỐI &8| &4Đã cố gắng sử dụng plugin phuộc thuộc phụ chưa cài đặt &c{0}'
+
+Menu-Internal-Page-Previous: 'Trang Trước'
+Menu-Internal-Page-Next: 'Trang Tiếp Theo'
+
+Command-Help-Type: 'Type'
+Command-Help-Args: 'Args'
+Command-ControlPanel-Description: 'Bảng điều khiển chính'
+
+Player-Teleport-Successfully: '&8[&3G&bControlPanel&8] &7Dịch chuyển đến &6{0}&7 thành công!'
+Target-Teleport-Successfully: '&8[&3G&bControlPanel&8] &7Dịch chuyển &6{0}&7 đến bạn thành công!'
+Player-Clear-Inventory-Successfully: '&8[&3G&bControlPanel&8] &7Xóa kho đồ của người chơi &6{0}&7 thành công!'
+Player-Clear-EnderChest-Successfully: '&8[&3G&bControlPanel&8] &7Xóa rương đồ ender của người chơi &6{0}&7 thành công!'
+Player-Kill-Successfully: '&8[&3G&bControlPanel&8] &7Đã giết người chơi &6{0}&7 thành công!'
