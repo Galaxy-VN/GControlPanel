@@ -2,6 +2,9 @@ Plugin-Loading:
   - '&r'
   - '&7Đang tải &3G&bControlPanel... &8{0}'
   - '&r'
+Plugin-Update:
+  - '&8[&3G&bControlPanel&8] &bCẬP NHẬT &8| &3Cập nhật &a{0}&3 đã tìm thấy ! Tải nó bằng đường dẫn phía dưới cho tính năng mới và sửa lỗi!'
+  - '&bhttps://minecraftvn.net/resources/gcontrolpanel.3178/'
 Plugin-Enabled: '&8[&3G&bControlPanel&8] &bTHÔNG TIN &8| &3Plugin đã được bật. Hiện đang chạy phiên bản &2{0}&7.'
 Plugin-Dependency-Hooked: '&8[&3G&bControlPanel&8] &6KẾT NỐI &8| &7Phụ thuộc phụ &f{0} &7đã được kết nối.'
 Plugin-Dependency-Abuse: '&8[&3G&bControlPanel&8] &6KẾT NỐI &8| &4Đã cố gắng sử dụng plugin phuộc thuộc phụ chưa cài đặt &c{0}'
