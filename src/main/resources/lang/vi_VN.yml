@@ -9,6 +9,7 @@ Plugin-Dependency-Abuse: '&8[&3G&bControlPanel&8] &6KẾT NỐI &8| &4Đã cố 
 Menu-Internal-Page-Previous: 'Trang Trước'
 Menu-Internal-Page-Next: 'Trang Tiếp Theo'
 
+Command-Cancel: 'Hủy'
 Command-Help-Type: 'Type'
 Command-Help-Args: 'Args'
 Command-ControlPanel-Description: 'Bảng điều khiển chính'
@@ -18,3 +19,21 @@ Target-Teleport-Successfully: '&8[&3G&bControlPanel&8] &7Dịch chuyển &6{0}&7
 Player-Clear-Inventory-Successfully: '&8[&3G&bControlPanel&8] &7Xóa kho đồ của người chơi &6{0}&7 thành công!'
 Player-Clear-EnderChest-Successfully: '&8[&3G&bControlPanel&8] &7Xóa rương đồ ender của người chơi &6{0}&7 thành công!'
 Player-Kill-Successfully: '&8[&3G&bControlPanel&8] &7Đã giết người chơi &6{0}&7 thành công!'
+
+Player-Kick-Reason: '&8[&3G&bControlPanel&8] &7Vui lòng nhập lý do!'
+Player-Kick-Successfully: '&8[&3G&bControlPanel&8] &7Thành công đá người chơi &6{0}&7 ra khỏi máy chủ!'
+
+Player-Ban-Reason: '&8[&3G&bControlPanel&8] &7Vui lòng nhập lý do!'
+Player-Ban-Successfully: '&8[&3G&bControlPanel&8] &7Thành công cấm người chơi &6{0}&7 khỏi máy chủ!'
+Player-Unban-Successfully: '&8[&3G&bControlPanel&8] &7Thành công xóa cấm của người chơi &6{0}&7 trong máy chủ!'
+
+Player-Give-Exp: '&8[&3G&bControlPanel&8] &7Vui lòng nhập số exp!'
+Player-Give-Exp-Successfully: '&8[&3G&bControlPanel&8] &7Thành công thêm &a{0}&7 exp cho người chơi &6{1}&7!'
+Player-Take-Exp: '&8[&3G&bControlPanel&8] &7Vui lòng nhập số exp!'
+Player-Take-Exp-Successfully: '&8[&3G&bControlPanel&8] &7Thành công lấy &a{0}&7 exp cho người chơi &6{1}&7!'
+
+Player-Effect-Remove: '&8[&3G&bControlPanel&8] &7Thành công xóa hiệu ứng &a{0}&7 của người chơi&7 người chơi &6{0}&7!'
+Player-Effect-Remove-All: '&8[&3G&bControlPanel&8] &7Thành công xóa &atất cả hiệu ứng của người chơi&7 người chơi &6{1}&7!'
+Player-Effect-Fail: '&8[&3G&bControlPanel&8] &7Người chơi &6{0}&7 không có hiệu ứng này!'
+Player-Effect-Fail-All: '&8[&3G&bControlPanel&8] &7Người chơi &6{0}&7 không có hiệu ứng nào!'
+Player-Effect-Successfully: '&8[&3G&bControlPanel&8] &7Thành công thêm hiệu ứng &a{0}&7 cấp độ &a{1}&7 cho người chơi &6{2}&7!'
