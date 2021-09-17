@@ -22,7 +22,8 @@ taboolib {
         "module-configuration",
         "module-nms",
         "module-nms-util",
-        "platform-bukkit"
+        "platform-bukkit",
+        "expansion-command-helper"
     )
 
     description {
@@ -36,7 +37,7 @@ taboolib {
         }
 
         classifier = null
-        version = "6.0.1-8"
+        version = "6.0.2-5"
     }
 }
 
